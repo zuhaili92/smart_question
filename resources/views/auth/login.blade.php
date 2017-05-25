@@ -10,7 +10,7 @@
     <div class="white-box">
       <form class="form-horizontal form-material" method="POST" id="loginform" action="{{ route('login') }}">
         {{ csrf_field() }}
-        <a href="javascript:void(0)" class="text-center db"><img src="/plugins/images/logo@2x.png" width="50%" alt="Home" /><br/><img src="/plugins/images/title.png" width="50%" alt="Home" /></a>  
+        <a href="javascript:void(0)" class="text-center db"><img src="/plugins/images/logo@2x.png" width="50%" alt="Smart Question" /><br/><img src="/plugins/images/title.png" width="50%" alt="Home" /></a>  
 
         @include('partials.error')
 
