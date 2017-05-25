@@ -1,4 +1,4 @@
-<p align="center">Smart Question Bank</p>
+<h2 align="center">Smart Question Bank</p>
 
 ## About Smart Question Bank
 
